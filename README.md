@@ -30,9 +30,9 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | HTTP Protocol | URL | Auto-update Frequence | Latest Updated | IDC | Provider |
 | ------------- | --- | --------------------- | --- | --- | -------- |
 | https | <https://iptv.b2og.com> | per 2h | Get Updated Failed: **Forbidden** | 腾讯云 | [GrandDuke1106](https://github.com/GrandDuke1106) |
-| https | <https://iptv.helima.net> | per 2.5h | Sat Jul 20 2024 07:30:12 GMT+0000 (Coordinated Universal Time) | Oracle | [DobySAMA](https://github.com/DobySAMA) |
-| https | <https://m3u.002397.xyz> | per 2h | Sat Jul 20 2024 08:07:12 GMT+0000 (Coordinated Universal Time) | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
-| https | <https://iptv.002397.xyz> | per 2h | Sat Jul 20 2024 08:01:08 GMT+0000 (Coordinated Universal Time) | Amazon | [Eternal-Future](https://github.com/Eternal-Future) |
+| https | <https://iptv.helima.net> | per 2.5h | Sat Jul 20 2024 09:30:13 GMT+0000 (Coordinated Universal Time) | Oracle | [DobySAMA](https://github.com/DobySAMA) |
+| https | <https://m3u.002397.xyz> | per 2h | Sat Jul 20 2024 10:07:52 GMT+0000 (Coordinated Universal Time) | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
+| https | <https://iptv.002397.xyz> | per 2h | Sat Jul 20 2024 10:01:09 GMT+0000 (Coordinated Universal Time) | Amazon | [Eternal-Future](https://github.com/Eternal-Future) |
 
 ## Channel
 
@@ -58,8 +58,8 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | epg.pw All | [all.m3u](/all.m3u) <br> [all.txt](/txt/all.txt) | [List for epg.pw All](/list/all.list) | 2432 | - |
 | qwerttvv/Beijing-IPTV IPTV Unicom | [q_bj_iptv_unicom.m3u](/q_bj_iptv_unicom.m3u) <br> [q_bj_iptv_unicom.txt](/txt/q_bj_iptv_unicom.txt) | [List for qwerttvv/Beijing-IPTV IPTV Unicom](/list/q_bj_iptv_unicom.list) | 138 | - |
 | qwerttvv/Beijing-IPTV IPTV Unicom Multicast | [q_bj_iptv_unicom_m.m3u](/q_bj_iptv_unicom_m.m3u) <br> [q_bj_iptv_unicom_m.txt](/txt/q_bj_iptv_unicom_m.txt) | [List for qwerttvv/Beijing-IPTV IPTV Unicom Multicast](/list/q_bj_iptv_unicom_m.list) | 138 | - |
-| qwerttvv/Beijing-IPTV IPTV Mobile | [q_bj_iptv_mobile.m3u](/q_bj_iptv_mobile.m3u) <br> [q_bj_iptv_mobile.txt](/txt/q_bj_iptv_mobile.txt) | [List for qwerttvv/Beijing-IPTV IPTV Mobile](/list/q_bj_iptv_mobile.list) | 153 | - |
-| qwerttvv/Beijing-IPTV IPTV Mobile Multicast | [q_bj_iptv_mobile_m.m3u](/q_bj_iptv_mobile_m.m3u) <br> [q_bj_iptv_mobile_m.txt](/txt/q_bj_iptv_mobile_m.txt) | [List for qwerttvv/Beijing-IPTV IPTV Mobile Multicast](/list/q_bj_iptv_mobile_m.list) | 137 | - |
+| qwerttvv/Beijing-IPTV IPTV Mobile | [q_bj_iptv_mobile.m3u](/q_bj_iptv_mobile.m3u) <br> [q_bj_iptv_mobile.txt](/txt/q_bj_iptv_mobile.txt) | [List for qwerttvv/Beijing-IPTV IPTV Mobile](/list/q_bj_iptv_mobile.list) | 153 | ✅ |
+| qwerttvv/Beijing-IPTV IPTV Mobile Multicast | [q_bj_iptv_mobile_m.m3u](/q_bj_iptv_mobile_m.m3u) <br> [q_bj_iptv_mobile_m.txt](/txt/q_bj_iptv_mobile_m.txt) | [List for qwerttvv/Beijing-IPTV IPTV Mobile Multicast](/list/q_bj_iptv_mobile_m.list) | 137 | ✅ |
 
 ## EPG
 
@@ -67,11 +67,11 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | --- | --- | ---------- |
 | 112114.xyz | [112114_xyz.xml](/epg/112114_xyz.xml) | - |
 | fanmingming/live | [fmml.xml](/epg/fmml.xml) | - |
-| 51zmt.top | [51zmt.xml](/epg/51zmt.xml) | update failed |
-| 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | update failed |
-| 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | update failed |
+| 51zmt.top | [51zmt.xml](/epg/51zmt.xml) | - |
+| 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
+| 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
 
-Updated at **Sat Jul 20 2024 08:14:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jul 20 2024 10:12:38 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
